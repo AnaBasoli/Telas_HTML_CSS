@@ -1,0 +1,9 @@
+body {
+    background-image: url("../assets/background_degrade.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html {
+    min-height: 100%;
+}
